@@ -91,4 +91,17 @@ git config — global user.email “<вашеemail.ru>
 
  - git checkout (branch name) - вернуться к актуальному состоянию
 
+ - git version - команда для проверки провильно ли настороен git
+
+ - git log - выводит список сохранений с комментариями коммитов
+
+ - git diff - показывает разницу между текущим и сохраненными файлами
+
+ - git commit -am "message"  - комбинированная команда git add + git commit
+
+ - git merge - cливает ветки в главную
+
+ - git branch - показывает список веток
+ - git branch -d  - удалить ветку 
+
 
