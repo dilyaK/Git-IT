@@ -77,7 +77,7 @@ git config — global user.email “<вашеemail.ru>
 
 
 
-__Команды для работы с Git:__
+ ## __*Команды для работы с Git:*__
 
  - git init - инициализвция файла
 
