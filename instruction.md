@@ -79,7 +79,9 @@ git config — global user.email “<вашеemail.ru>
 
 
 
- ## __*Команды для работы с Git:*__
+ ## __*Команды для работы с Git:*__:
+
+
 
  - git init - инициализвция файла
 
@@ -102,6 +104,7 @@ git config — global user.email “<вашеemail.ru>
  - git merge - cливает ветки в главную
 
  - git branch - показывает список веток
+ 
  - git branch -d  - удалить ветку 
 
 
